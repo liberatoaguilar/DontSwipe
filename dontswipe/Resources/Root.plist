@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cellClass</key>
+			<string>SRSwitchTableCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.secondeight.dontswipe</string>
+			<key>key</key>
+			<string>AwesomeSwitch1</string>
+			<key>label</key>
+			<string>Enable Border</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disables notifications when DontSwipe is active.</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>SRSwitchTableCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.secondeight.dontswipe</string>
+			<key>key</key>
+			<string>AwesomeSwitch2</string>
+			<key>label</key>
+			<string>Disable Notifications</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>When this setting is enabled user interactions with the app are allowed, but exiting the app is still disabled.</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>SRSwitchTableCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.secondeight.dontswipe</string>
+			<key>key</key>
+			<string>AwesomeSwitch3</string>
+			<key>label</key>
+			<string>Enable Swipes</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>respringboi</string>
+			<key>label</key>
+			<string>Respring</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Social</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>emailMethod</string>
+			<key>label</key>
+			<string>Email Me</string>
+			<key>icon</key>
+			<string>gmail.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>contactMethod</string>
+			<key>label</key>
+			<string>@SecondEight1</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>donationMethod</string>
+			<key>label</key>
+			<string>Buy me a coffee?</string>
+			<key>icon</key>
+			<string>paypal.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Version 1.2</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>© 2018 Liberato Aguilar/SecondEight1</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>DontSwipe</string>
+</dict>
+</plist>

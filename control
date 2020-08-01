@@ -1,0 +1,9 @@
+Package: com.secondeight.dontswipe
+Name: DontSwipe
+Depends: mobilesubstrate, libactivator
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Use an activator gesture to prevent people from swiping when showing them a photo! Works in any application.
+Maintainer: Liberato Aguilar
+Author: Liberato Aguilar
+Section: Tweaks
