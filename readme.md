@@ -2,7 +2,7 @@
 
 - Created June 2018
 - 5/5 Star Rating!!
-- Over 7,500 downloads!
+- Over 5,000 downloads!
 - https://repo.packix.com/package/com.secondeight.dontswipe/
 - iOS 11-13
 
